@@ -8,7 +8,7 @@ export default function TodoLayout() {
     <Stack
       screenOptions={{
         headerTitleAlign: "center",
-        headerTitle: "Ayaoba's Todo List",
+        headerTitle: "Ayaoba's Place",
         headerBackTitleVisible: false,
         headerBackTitle: "",
         headerStyle: {

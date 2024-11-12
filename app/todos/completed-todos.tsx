@@ -38,7 +38,7 @@ const CompletedTodos = () => {
         style={styles.image}
         resizeMode="cover"
       />
-      <Text style={styles.header}>Completed Todos</Text>
+      <Text style={styles.header}>Completed Task</Text>
       <FlatList
         showsVerticalScrollIndicator={false}
         contentContainerStyle={styles.todos}
